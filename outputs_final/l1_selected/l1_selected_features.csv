@@ -1,0 +1,66 @@
+selected_feature
+los
+age
+sofa2_cardiovascular_24h_max
+sofa2_coagulation_24h_max
+sofa2_liver_24h_max
+sofa2_renal_24h_max
+sofa2_cns_24h_max
+heart_rate_min
+heart_rate_max
+heart_rate_mean
+sbp_min
+sbp_max
+sbp_mean
+dbp_min
+dbp_max
+dbp_mean
+mbp_min
+mbp_max
+mbp_mean
+resp_rate_min
+resp_rate_max
+resp_rate_mean
+temperature_min
+temperature_max
+temperature_mean
+spo2_min
+spo2_max
+spo2_mean
+glucose_min
+glucose_max
+gcs_min
+gcs_motor
+gcs_verbal
+gcs_eyes
+gcs_unable
+po2_min
+po2_max
+first_careunit_Cardiac Vascular Intensive Care Unit (CVICU)
+first_careunit_Coronary Care Unit (CCU)
+first_careunit_Medical Intensive Care Unit (MICU)
+first_careunit_Neuro Intermediate
+first_careunit_Neuro Stepdown
+first_careunit_Neuro Surgical Intensive Care Unit (Neuro SICU)
+first_careunit_Surgical Intensive Care Unit (SICU)
+first_careunit_Trauma SICU (TSICU)
+last_careunit_Cardiac Vascular Intensive Care Unit (CVICU)
+last_careunit_Coronary Care Unit (CCU)
+last_careunit_Medical Intensive Care Unit (MICU)
+last_careunit_Neuro Intermediate
+last_careunit_Neuro Stepdown
+last_careunit_Neuro Surgical Intensive Care Unit (Neuro SICU)
+last_careunit_Surgical Intensive Care Unit (SICU)
+last_careunit_Trauma SICU (TSICU)
+insurance_Medicare
+insurance_Other
+language_English
+language_Haitian
+race_PATIENT DECLINED TO ANSWER
+race_UNABLE TO OBTAIN
+race_UNKNOWN
+race_WHITE
+marital_status_MARRIED
+marital_status_SINGLE
+marital_status_WIDOWED
+gender_M

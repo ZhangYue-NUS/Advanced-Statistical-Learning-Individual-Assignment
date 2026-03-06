@@ -1,0 +1,125 @@
+feature,coef,abs_coef,selected
+last_careunit_Cardiac Vascular Intensive Care Unit (CVICU),-0.8362706531817641,0.8362706531817641,True
+first_careunit_Cardiac Vascular Intensive Care Unit (CVICU),-0.8362706531817641,0.8362706531817641,True
+last_careunit_Neuro Intermediate,-0.6752325821070667,0.6752325821070667,True
+first_careunit_Neuro Intermediate,-0.6752325821070667,0.6752325821070667,True
+last_careunit_Neuro Surgical Intensive Care Unit (Neuro SICU),0.616796109498193,0.616796109498193,True
+first_careunit_Neuro Surgical Intensive Care Unit (Neuro SICU),0.616796109498193,0.616796109498193,True
+race_UNKNOWN,0.5674016834325043,0.5674016834325043,True
+age,0.49630288195497346,0.49630288195497346,True
+heart_rate_mean,0.4919627478925888,0.4919627478925888,True
+race_UNABLE TO OBTAIN,0.45666428037045786,0.45666428037045786,True
+last_careunit_Neuro Stepdown,-0.45484200593923596,0.45484200593923596,True
+first_careunit_Neuro Stepdown,-0.45484200593923596,0.45484200593923596,True
+resp_rate_mean,0.4208259436743177,0.4208259436743177,True
+gcs_verbal,-0.4076677358719201,0.4076677358719201,True
+gcs_motor,-0.38609982212996985,0.38609982212996985,True
+los,0.34587068675025084,0.34587068675025084,True
+gcs_eyes,-0.31318865748200775,0.31318865748200775,True
+spo2_min,-0.26377554096702577,0.26377554096702577,True
+sofa2_liver_24h_max,0.2402123604774618,0.2402123604774618,True
+po2_max,-0.22194888855864112,0.22194888855864112,True
+temperature_mean,-0.209274015094109,0.209274015094109,True
+heart_rate_min,-0.20838915742736913,0.20838915742736913,True
+sofa2_renal_24h_max,0.20634487346745317,0.20634487346745317,True
+sbp_mean,-0.18577384711260309,0.18577384711260309,True
+spo2_mean,-0.17540206502343603,0.17540206502343603,True
+sbp_min,-0.1582397269701337,0.1582397269701337,True
+insurance_Medicare,0.15617182397757948,0.15617182397757948,True
+po2_min,0.15365345497250985,0.15365345497250985,True
+glucose_min,0.15044663983533646,0.15044663983533646,True
+sofa2_cardiovascular_24h_max,0.11609520731720246,0.11609520731720246,True
+race_WHITE,-0.10687099758615198,0.10687099758615198,True
+mbp_min,-0.10547010944633099,0.10547010944633099,True
+temperature_min,-0.10186827571957063,0.10186827571957063,True
+language_Haitian,-0.09846803819168981,0.09846803819168981,True
+race_PATIENT DECLINED TO ANSWER,-0.09769834292364242,0.09769834292364242,True
+sofa2_coagulation_24h_max,0.09698370845607847,0.09698370845607847,True
+marital_status_WIDOWED,-0.0965085583909079,0.0965085583909079,True
+language_English,0.0881809214647528,0.0881809214647528,True
+dbp_max,-0.08169222698467968,0.08169222698467968,True
+marital_status_SINGLE,-0.06738857514778777,0.06738857514778777,True
+sbp_max,0.06735180262947348,0.06735180262947348,True
+resp_rate_max,-0.04498505092773199,0.04498505092773199,True
+last_careunit_Surgical Intensive Care Unit (SICU),0.04336482513641454,0.04336482513641454,True
+first_careunit_Surgical Intensive Care Unit (SICU),0.04336482513641454,0.04336482513641454,True
+sofa2_cns_24h_max,-0.04262221835321135,0.04262221835321135,True
+mbp_max,0.04001156011758525,0.04001156011758525,True
+dbp_min,-0.03996243880131406,0.03996243880131406,True
+marital_status_MARRIED,0.03951370246191965,0.03951370246191965,True
+resp_rate_min,0.03299158385289526,0.03299158385289526,True
+gcs_unable,-0.03198745491856697,0.03198745491856697,True
+gcs_min,0.02930356339605135,0.02930356339605135,True
+last_careunit_Trauma SICU (TSICU),-0.02611081760691023,0.02611081760691023,True
+first_careunit_Trauma SICU (TSICU),-0.02611081760691023,0.02611081760691023,True
+spo2_max,-0.025641849988481496,0.025641849988481496,True
+last_careunit_Medical Intensive Care Unit (MICU),0.02506554502466405,0.02506554502466405,True
+first_careunit_Medical Intensive Care Unit (MICU),0.02506554502466405,0.02506554502466405,True
+first_careunit_Coronary Care Unit (CCU),0.022951048982177844,0.022951048982177844,True
+last_careunit_Coronary Care Unit (CCU),0.022951048982177844,0.022951048982177844,True
+dbp_mean,-0.021833055347178144,0.021833055347178144,True
+mbp_mean,0.018452219830865122,0.018452219830865122,True
+temperature_max,-0.01616287376705073,0.01616287376705073,True
+insurance_Other,-0.010972006506870767,0.010972006506870767,True
+gender_M,-0.009402007268309394,0.009402007268309394,True
+heart_rate_max,0.007548832683861199,0.007548832683861199,True
+glucose_max,0.0004814672571471033,0.0004814672571471033,True
+race_AMERICAN INDIAN/ALASKA NATIVE,0.0,0.0,False
+race_BLACK/CAPE VERDEAN,0.0,0.0,False
+race_BLACK/AFRICAN AMERICAN,0.0,0.0,False
+race_BLACK/AFRICAN,0.0,0.0,False
+race_ASIAN,0.0,0.0,False
+language_Thai,0.0,0.0,False
+language_Vietnamese,0.0,0.0,False
+race_HISPANIC OR LATINO,0.0,0.0,False
+language_Spanish,0.0,0.0,False
+language_Somali,0.0,0.0,False
+language_Russian,0.0,0.0,False
+language_Portuguese,0.0,0.0,False
+race_BLACK/CARIBBEAN ISLAND,0.0,0.0,False
+race_NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER,0.0,0.0,False
+race_HISPANIC/LATINO,0.0,0.0,False
+race_MULTIPLE RACE/ETHNICITY,0.0,0.0,False
+language_Persian,0.0,0.0,False
+race_OTHER,0.0,0.0,False
+first_careunit_Med/Surg,0.0,0.0,False
+race_PORTUGUESE,0.0,0.0,False
+race_SOUTH AMERICAN,0.0,0.0,False
+first_careunit_Intensive Care Unit (ICU),0.0,0.0,False
+sofa2_respiration_24h_max,0.0,0.0,False
+glucose_mean,0.0,0.0,False
+marital_status_DIVORCED,0.0,0.0,False
+gender_F,0.0,0.0,False
+language_Polish,0.0,0.0,False
+last_careunit_Med/Surg,0.0,0.0,False
+language_Other,0.0,0.0,False
+language_American Sign Language,0.0,0.0,False
+last_careunit_Medicine,0.0,0.0,False
+last_careunit_Intensive Care Unit (ICU),0.0,0.0,False
+first_careunit_Surgery/Vascular/Intermediate,0.0,0.0,False
+first_careunit_Surgery/Trauma,0.0,0.0,False
+last_careunit_Neurology,0.0,0.0,False
+last_careunit_PACU,0.0,0.0,False
+last_careunit_Surgery/Trauma,0.0,0.0,False
+last_careunit_Surgery/Vascular/Intermediate,0.0,0.0,False
+first_careunit_PACU,0.0,0.0,False
+first_careunit_Neurology,0.0,0.0,False
+insurance_Medicaid,0.0,0.0,False
+insurance_No charge,0.0,0.0,False
+insurance_Private,0.0,0.0,False
+language_Amharic,0.0,0.0,False
+last_careunit_Medical/Surgical Intensive Care Unit (MICU/SICU),0.0,0.0,False
+language_Arabic,0.0,0.0,False
+language_Armenian,0.0,0.0,False
+language_Bengali,0.0,0.0,False
+language_Chinese,0.0,0.0,False
+first_careunit_Medicine,0.0,0.0,False
+language_French,0.0,0.0,False
+first_careunit_Medical/Surgical Intensive Care Unit (MICU/SICU),0.0,0.0,False
+language_Hindi,0.0,0.0,False
+language_Italian,0.0,0.0,False
+language_Japanese,0.0,0.0,False
+language_Kabuverdianu,0.0,0.0,False
+language_Khmer,0.0,0.0,False
+language_Korean,0.0,0.0,False
+language_Modern Greek (1453-),0.0,0.0,False
