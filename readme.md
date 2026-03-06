@@ -96,8 +96,8 @@ After running the notebook, results will be saved under:
 outputs_final/
 ```
 
-We have a total of two subfolders, baseline and 11_selected, in each subfolder the following contents are included, 
-- ROC and PR curves
-- confusion matrices
+We have a total of two subfolders, baseline and 11_selected, in each subfolder the following contents are included. 
+- ROC and PR curves (`.png`)
+- confusion matrices (`.png`)
 - prediction files (`.csv`)
-- summary of metrics 
+- summary of metrics (`.json`)
